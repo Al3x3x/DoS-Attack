@@ -22,6 +22,9 @@ This Java application is designed for Denial-of-Service (DoS) attacks. It includ
 - Ability to specify the target server IP address and port number.
 - Real-time feedback on the attack status through the text area.
 
+![Sin título](https://github.com/Al3x3x/DoS-Attack/assets/166667273/5f5bf37d-af11-4fc9-8ada-6a57894362ef)
+
+
 ## How It Works
 
 The application creates multiple threads, each responsible for sending HTTP requests to the target server. These requests are sent in a loop until the attack is stopped. By overwhelming the server with a high volume of requests, the application aims to disrupt the server's normal operation and cause denial of service to legitimate users.
