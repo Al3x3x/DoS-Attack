@@ -45,7 +45,7 @@ To run the application:
 1. Compile the Java file (`DoSAtt.java`).
 2. Execute the compiled class file (`DoSAtt.class`).
 
-Ensure that you have Java Development Kit (JDK) installed on your system.
+Or just open the DosAttack.jar file if you don't want to see the code or compile it. 
 
 ## Contributing
 
